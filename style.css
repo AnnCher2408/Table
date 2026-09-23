@@ -1,0 +1,14 @@
+p{
+	border: 6px solid #2C2966;
+    text-align: center;
+    width: 200px;
+    height: 330px;
+  
+    padding: 10px 5px;
+    margin: 10px 5px;
+}
+
+main {
+	margin: 20px 30px;
+    padding: 30px;
+}
